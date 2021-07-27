@@ -2,7 +2,13 @@
 
 1. OBJETIVOS GENERALES
 
+- Armar y medir la potencia en la resistencia señalada en el diagrama utlizando los materiales que nos proporciona el simulador DCACLab y mediante los calculos matematicos demostrar que lo que medimos tiene logica
+
 2. OBJETIVOS ESPECIFICOS
+
+- Comprender el funcionamiento del vatimetro para utilizarlo en la medicion del circuito propuesto
+
+- Calcular el errror de las mediciones con respecto a los valores optenidos en el proceso matematico del circuito para validar las mediciones
 
 3. MARCO TEORICO
 
