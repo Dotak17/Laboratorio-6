@@ -11,7 +11,7 @@
 - Calcular el errror de las mediciones con respecto a los valores optenidos en el proceso matematico del circuito para validar las mediciones
 
 3. MARCO TEORICO
-
+![laboratorio](https://user-images.githubusercontent.com/84397282/127200614-4d61b5cd-bd0b-40e6-bef2-87b54e081f51.jpg)
 4. EXPLICACION DEL PROCEDIMIENTO
 
   4.1 MATERIALES
