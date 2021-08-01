@@ -14,6 +14,21 @@
 ![laboratorio](https://user-images.githubusercontent.com/84397282/127200614-4d61b5cd-bd0b-40e6-bef2-87b54e081f51.jpg)
 4. EXPLICACION DEL PROCEDIMIENTO
 
+![](https://user-images.githubusercontent.com/84998005/127759026-ab91161e-eb25-4f3d-a737-224b36816fa9.png)
+
+1.	Para medir el voltaje en la resistencia RL=220, conectamos el multímetro en paralelo y obtenemos el valor en voltios. 
+
+![](https://user-images.githubusercontent.com/84998005/127759024-de8e5c39-f690-4264-ba17-795a241afa00.png)
+
+2.	Para medir corriente en la resistencia RL=220, desconectamos un cable, conectamos el multímetro en serie y obtenemos el valor en amperios. 
+
+![](https://user-images.githubusercontent.com/84998005/127759027-2e12e49c-5636-4a02-af33-ec949470e72d.png)
+
+3.	Para medir la potencia en la resistencia RL=220, ubicamos las puntas (IN), (OUT) en serie al circuito y las puntas (V), (VG) en paralelo y obtenemos el valor en watts.
+
+4.	Repetimos el procedimiento en cada una de las resistencias RL.
+
+
   4.1 MATERIALES
   
     - Fuente de voltaje C.D
@@ -37,5 +52,10 @@
 5. VIDEO
 
 6. CONCLUSIONES
+
+- El vatímetro es el dispositivo que permite realizar la medición de los vatios que hay en una corriente de electricidad. Vatio, también conocido como watt.
+
+- Las medidas obtenidas en el simulador tienen un margen de error mínimo en comparación a las adquiridas mediante los cálculos. 
+
 
 7. BIBLIOGRAFIA 
