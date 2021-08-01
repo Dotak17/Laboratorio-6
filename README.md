@@ -55,6 +55,9 @@
   
   ![](https://user-images.githubusercontent.com/84998013/127776283-ddca9c41-8f68-4996-b22a-f99507070993.png)
   
+  ![](https://user-images.githubusercontent.com/84998013/127776351-61d0142b-e3bb-40f3-97bc-8493eb72351d.png)
+  
+  ![](https://user-images.githubusercontent.com/84998013/127776516-0305ac65-59bc-4c23-bb5f-4a84b3692a20.png)
   
 5. VIDEO
 
@@ -64,5 +67,6 @@
 
 - Las medidas obtenidas en el simulador tienen un margen de error mínimo en comparación a las adquiridas mediante los cálculos. 
 
+- 
 
 7. BIBLIOGRAFIA 
