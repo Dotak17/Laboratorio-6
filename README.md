@@ -49,6 +49,11 @@
     
   4.2 PROCEDIMIENTO
   
+  ![](https://user-images.githubusercontent.com/84998013/127776102-2a841885-fb54-42f9-82df-9bf48d2c5951.png)
+  
+  ![](https://user-images.githubusercontent.com/84998013/127776182-d67cdabd-34c8-4fb2-8955-81664ec163a9.png)
+  
+  
 5. VIDEO
 
 6. CONCLUSIONES
