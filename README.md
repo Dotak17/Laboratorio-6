@@ -55,9 +55,9 @@
   
   ![](https://user-images.githubusercontent.com/84998013/127776283-ddca9c41-8f68-4996-b22a-f99507070993.png)
   
-  ![](https://user-images.githubusercontent.com/84998013/127776351-61d0142b-e3bb-40f3-97bc-8493eb72351d.png)
+  ![](https://user-images.githubusercontent.com/84998013/127776839-821e5e87-e310-4bba-b292-e229c226552f.png)
   
-  ![](https://user-images.githubusercontent.com/84998013/127776516-0305ac65-59bc-4c23-bb5f-4a84b3692a20.png)
+  ![](https://user-images.githubusercontent.com/84998013/127776932-566e1482-9907-4ee2-b895-ce5f007dc52a.png)
   
 5. VIDEO
 
@@ -67,6 +67,8 @@
 
 - Las medidas obtenidas en el simulador tienen un margen de error mínimo en comparación a las adquiridas mediante los cálculos. 
 
-- 
+- Se puede concluir que al hacer que la resistencia de la fuente sea igual a la resistencia de carga, se podrá obtener la máxima transferencia de potencia, la fuente y la resistencia de carga se combinan.
+
+
 
 7. BIBLIOGRAFIA 
