@@ -72,3 +72,8 @@
 
 
 7. BIBLIOGRAFIA 
+
+W. H. Hayt y J. E. Kemmerly, Máxima
+transferencia de potencia en circuitos
+eléctricos. Análisis de circuitos en
+ingeniería. California: 
