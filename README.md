@@ -61,6 +61,8 @@
   
 5. VIDEO
 
+https://www.youtube.com/watch?v=R-yCFS-infM
+
 6. CONCLUSIONES
 
 - El vatímetro es el dispositivo que permite realizar la medición de los vatios que hay en una corriente de electricidad. Vatio, también conocido como watt.
